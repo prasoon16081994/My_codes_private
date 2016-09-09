@@ -27,7 +27,7 @@ typedef vector<pii> vpii;
 #define mmap multimap
 #define umset unordered_multiset
 #define ummap unordered_multimap
-#define all((v)) (v).begin(),(v).end()
+#define all(v) (v).begin(),(v).end()
 
 //int xx[]={0,1,0,-1,-1,-1,1,1,-1};int yy[]={1,0,-1,0,1,1,-1,-1}; //E S W N NE SE SW NW
 
@@ -62,7 +62,7 @@ typedef vector<pii> vpii;
 #define mmap multimap
 #define umset unordered_multiset
 #define ummap unordered_multimap
-#define all((v)) (v).begin(),(v).end()
+#define all(v) (v).begin(),(v).end()
 
 //int xx[]={0,1,0,-1,-1,-1,1,1,-1};int yy[]={1,0,-1,0,1,1,-1,-1}; //E S W N NE SE SW NW
 
